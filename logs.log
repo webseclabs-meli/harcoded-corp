@@ -1,0 +1,52 @@
+[INFO] 2025-04-02 14:25:32 - Iniciando coleta de usuários crifrados e senhas...
+[INFO] 2025-04-02 14:25:33 - Verificando senhas MD5 corretas...
+[INFO] 2025-04-02 14:25:35 - Usuários coletados com sucesso.
+
+users: [
+  {"username": "user01", "password": "f4ef7c21e38bc1e5a5204a6c4f34b731"},
+  {"username": "admin23", "password": "c93be2df9fe78b8ccfd8b9b2bcb951ec"},
+  {"username": "testUser42", "password": "b1a2bc6d07d49b4d6979b0794e2cd847"},
+  {"username": "guest2024", "password": "e8fd7cbbd24d76dba139f8fe385f3947"},
+  {"username": "johnDoe", "password": "1b6f80b3f87c14f4b993c83d54b703a0"},
+  {"username": "mike_smith", "password": "5075db4ab576b26c9b5ff2e2e3497479"},
+  {"username": "alice_example", "password": "ba611f46f95a6ea358d3b14833f34b24"},
+  {"username": "bob456", "password": "7225e1d6e69c4a4b3b8b45b1b7b9e973"},
+  {"username": "charlie_test", "password": "99a8333a6ee2159b879218b7b4a118b9"},
+  {"username": "user999", "password": "0c241d062ba2b9d357fa7084dbfdbb4e"},
+  {"username": "jane_doe", "password": "957234c415702d3ab818c3e7670899f4"},
+  {"username": "david01", "password": "7c1635e84f10dcd37f8ac4b623b0c711"},
+  {"username": "test_777", "password": "f62e9ec2c7da496226c4bc73a8cdb957"},
+  {"username": "admin_1234", "password": "39e67d24b13962a4576b1e8e87bc3917"},
+  {"username": "guest1", "password": "3a8fef8d82fe1691bc2c9bcdbdb7a7b5"},
+  {"username": "test_visitor", "password": "290c8d4da70d941db9c52c4b9e907d6e"},
+  {"username": "peter_parker", "password": "9b2a5427c88bc9f179f51f4b8eac62bc"},
+  {"username": "tony_stark", "password": "85c14d08cc27f1e084681b6a9a4408c5"},
+  {"username": "steve_rogers", "password": "11d1c4a8c722cd2e16011e7e5a3997ad"},
+  {"username": "thor_hammer", "password": "6d51a5b350d216420d05f8552630fa56"},
+  {"username": "black_widow", "password": "87a756d01315f82e850285c282d0192b"},
+  {"username": "clark_kent", "password": "d842ca17b6c27d9fc0cd0e768ca72266"},
+  {"username": "bruce_wayne", "password": "3e0d9ec7e6727c06c96830e713b2c00b"},
+  {"username": "harry_potter", "password": "7aab53e2c0a4e2b4218b12978bff5e73"},
+  {"username": "luke_skywalker", "password": "6075ff57ad9d98e7f0599b63c8cba9b3"},
+  {"username": "wolverine", "password": "ecdb482b3a314f01ccaa5620c996d9a4"},
+  {"username": "logan_12", "password": "2b9b82b03d78198ad0c9c59b5852b4de"},
+  {"username": "neo_the_one", "password": "8c34f8c08d9b8b2d1c8fa1ac31e232ed"},
+  {"username": "matrix_reloaded", "password": "afbbec8e7c017eddd78f8efb4da9bcd6"},
+  {"username": "morpheus_1", "password": "d2dff9e2e9a0755177d42f8b31e3e8be"},
+  {"username": "trinity_1987", "password": "197c3b9a74b437b75f5bb6e39e8ea292"},
+  {"username": "magneto_1", "password": "5e99c20c735215b49f8a6313e74d1b9e"},
+  {"username": "storm_456", "password": "ff2b0ef0fc064b6d1737b23836c43ab2"},
+  {"username": "mystique_9", "password": "e37dbf519c8cd32221d4a0fa5d25c55b"},
+  {"username": "cyclops_007", "password": "92950e1ad1c4c8b680b0c1d730e287de"},
+  {"username": "xmen_leader", "password": "689033b56e809fd402d9c91d6cfd5a9f"},
+  {"username": "colossus_42", "password": "ee4c742b49aeacb784f0e44f6b4b1714"},
+  {"username": "gambit_rouge", "password": "b8d8a9900ee842d96c586b3d7d280b0f"},
+  {"username": "nightcrawler_2", "password": "dd6991c4699d846f8e7fe9905f59fef1"},
+  {"username": "beast_1", "password": "4f581f8f217ada6235946e7b7c695d71"},
+  {"username": "rogue_1", "password": "6a923689da5f5ef3a999d92d71ed1a24"},
+  {"username": "quicksilver_21", "password": "4b9e9936c27fcd6f99a2a6f828def201"},
+  {"username": "jubilee_x", "password": "a1b213ca5e44cc92f82ae87ae8289ed2"}
+]
+
+[INFO] 2025-04-02 14:25:40 - Usuários e senhas exibidos com sucesso.
+[INFO] 2025-04-02 14:25:42 - Fim do processo de log.
